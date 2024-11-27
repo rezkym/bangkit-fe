@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">DimsumBangkit</string>
+    <string name="title_register_page">Create a new account</string>
+    <string name="name">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="next">Next</string>
+    <string name="title_register2">Add your palm image</string>
+    <string name="title_register1">Create a new account</string>
+    <string name="guidelineTitle">Follow the guideline :</string>
+    <string name="guidelines">1. Hold your hand steady \n2. Use good lighting \n3. Avoid shadows or blurriness in the photo
+    </string>
+    <string name="uploadimage">Upload Image</string>
+    <string name="title_register3">Your personal information</string>
+    <string name="fullname">Full name</string>
+    <string name="job">Job Position/Title</string>
+    <string name="company">Company</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="whatsapp">Whatsapp Number</string>
+    <string name="registerbutton">Register</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="change_picture">Change Picture</string>
+
 </resources>
